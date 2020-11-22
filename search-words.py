@@ -2,7 +2,7 @@ import sys
 
 query = sys.argv[1]
 #dictionary_name = sys.argv[2]
-dictionary_name = './dictionaries/pt-br-ascii.txt'
+dictionary_name = './languages/pt-br.txt'
 
 # --- #
 
